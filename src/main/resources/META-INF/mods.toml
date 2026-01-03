@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[57,)" # an Forge-Version anpassen
+license="MIT"
+[[mods]]
+modId="heldenmod"
+version="1.0.0"
+displayName="HeldenMod"
+description='''Minecraft Helden Mod — Lives / PvP-Elimination.'''
+authors="RouRou1000"

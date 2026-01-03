@@ -1,0 +1,8 @@
+{
+  "item.heldenmod.hero_heart": "Heldenherz",
+  "item.heldenmod.revive_item": "Wiederbelebungsherz",
+  "message.combat.started": "IM KAMPF — %s s",
+  "message.heart.taken": "⚔ %s hat %s ein Herz genommen",
+  "message.player.fallen": "☠ %s ist gefallen",
+  "hud.hearts.tooltip": "Heldenherzen"
+}
